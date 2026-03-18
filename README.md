@@ -1,1 +1,1 @@
-[intro](https://miwytt/miwytt/intro.html)
+[intro](https://miwytt/miwytt/)
