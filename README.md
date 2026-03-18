@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="420" height="165" alt="intro" src="https://github.com/user-attachments/assets/e5511d2e-ff73-494a-8dbf-e28dbc5ceb5f" />
+<img width="420" height="165" alt="intro" src="./intro.png" />
 
 
 <a href="https://www.cl.uzh.ch/de/about-us/people/team/compling/Wastl.html"><img src="./button_dept.svg" /></a>
