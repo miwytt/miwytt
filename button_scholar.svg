@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="270" height="32" viewBox="0 0 270 32">
-  <text x="21" y="22" font-family="monospace" font-size="12" fill="#ff1a1a" font-weight="500">❯</text>
-  <text x="35" y="22" font-family="monospace" font-size="12" fill="#555555">scholar</text>
-  <text x="93" y="22" font-family="monospace" font-size="12" fill="#e8e8e8">/ publications</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="386" height="32" viewBox="0 0 386 32">
+  <text x="0" y="22" font-family="monospace" font-size="12" fill="#ff1a1a" font-weight="500">❯</text>
+  <text x="14" y="22" font-family="monospace" font-size="12" fill="#555555">scholar</text>
+  <text x="72" y="22" font-family="monospace" font-size="12" fill="#e8e8e8">/ publications</text>
 </svg>
